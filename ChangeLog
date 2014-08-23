@@ -1,7 +1,12 @@
+2014-08-23  Glenn Randers-Pehrson  <glennrp@simple.dallas.tx.us>
+	* coders/png.c: Fixed handling of transparency when writing
+	indexed PNG. Reference: SourceForge Bug tracker [bugs:#267]
+        Transparency lost when converting from GIF to PNG.
+
 2014-08-17  Jaroslav Fojtik  <JaFojtik@seznam.cz>
 
-        * VisualMagick\configure\configure.cpp Remove webp when attempting to compile with Visual Studio 6.
-
+        * VisualMagick\configure\configure.cpp Remove webp when attempting
+	to compile with Visual Studio 6.
 
 2014-08-16  Bob Friesenhahn  <bfriesen@simple.dallas.tx.us>
 
