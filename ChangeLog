@@ -1,5 +1,7 @@
 2016-05-30  Bob Friesenhahn  <bfriesen@simple.dallas.tx.us>
 
+	* version.sh (PACKAGE_VERSION): Released 1.3.24.
+
 	* NEWS.txt: Update for 1.3.24 release.
 
 	* www/Changes.rst: Mention 1.3.24 release.
